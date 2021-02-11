@@ -1,5 +1,5 @@
 # padrao-inicial-node-typescript
-Projeto inicial com eslint, prettier, e editor config configurados para projetos node com typescript
+Projeto inicial com eslint, prettier, e editor config configurados para projetos node com typescript</br>
 Configurado para: 
 Identificar arquivos com extenção .ts no import.
 Tirar os espaços no final de cada linha.
